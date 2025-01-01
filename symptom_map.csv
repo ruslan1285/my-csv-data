@@ -1,67 +1,68 @@
 symptomKey,nutrientKey,probability
-nightBlindness,vitaminA,70
-nightBlindness,vitaminB2,20
-drySkin,vitaminA,40
-drySkin,zinc,30
-drySkin,vitaminE,20
-fatigue,vitaminB12,40
-fatigue,iron,40
-fatigue,vitaminB9,20
-fatigue,vitaminB6,20
-fatigue,vitaminB1,20
-irritability,vitaminB6,50
-irritability,vitaminB1,30
-muscleWeakness,vitaminD,50
-muscleWeakness,vitaminE,30
-muscleWeakness,vitaminB12,20
-muscleWeakness,magnesium,20
-gumBleeding,vitaminC,70
-gumBleeding,vitaminK,20
-slowHealing,vitaminC,50
-slowHealing,zinc,30
-slowHealing,vitaminA,20
-hairLoss,zinc,40
-hairLoss,iron,30
-hairLoss,vitaminB7,20
-hairLoss,vitaminD,20
-hairLoss,magnesium,20
-brittleNails,vitaminB7,40
-brittleNails,iron,30
-brittleNails,calcium,20
-brittleNails,zinc,20
-frequentInfections,vitaminC,30
-frequentInfections,vitaminD,20
-frequentInfections,zinc,20
-frequentInfections,iron,10
-poorMemory,choline,30
-poorMemory,vitaminB1,30
-poorMemory,vitaminB12,20
-depression,vitaminB6,40
-depression,vitaminB12,30
-depression,vitaminD,30
-pms,calcium,40
-pms,vitaminB6,30
-pms,magnesium,30
-pms,vitaminE,20
-muscleCramps,magnesium,80
-muscleCramps,calcium,60
-muscleCramps,vitaminB5,40
-muscleCramps,potassium,50
-tinglingNumbness,vitaminB12,50
-tinglingNumbness,vitaminB1,30
-tinglingNumbness,magnesium,20
-insomnia,magnesium,40
-insomnia,vitaminB6,30
-insomnia,vitaminB12,20
-anemia,iron,70
-anemia,vitaminB9,30
-anemia,vitaminB12,30
-dizziness,iron,30
-dizziness,vitaminB12,20
-dizziness,magnesium,10
-muscleTwitching,magnesium,50
-muscleTwitching,calcium,40
-muscleTwitching,vitaminD,20
-dryWateryEyes,vitaminA,40
-dryWateryEyes,vitaminB2,10
+Плохое зрение в темноте,vitaminA,70
+Плохое зрение в темноте,vitaminB2,20
+Сухость кожи,vitaminA,40
+Сухость кожи,zinc,30
+Сухость кожи,vitaminE,20
+Усталость,vitaminB12,40
+Усталость,iron,40
+Усталость,vitaminB9,20
+Усталость,vitaminB6,20
+Усталость,vitaminB1,20
+Раздражительность,vitaminB6,50
+Раздражительность,vitaminB1,30
+Мышечная слабость,vitaminD,50
+Мышечная слабость,vitaminE,30
+Мышечная слабость,vitaminB12,20
+Мышечная слабость,magnesium,20
+Кровоточивость дёсен,vitaminC,70
+Кровоточивость дёсен,vitaminK,20
+Медленное заживление ран,vitaminC,50
+Медленное заживление ран,zinc,30
+Медленное заживление ран,vitaminA,20
+Выпадение волос,zinc,40
+Выпадение волос,iron,30
+Выпадение волос,vitaminB7,20
+Выпадение волос,vitaminD,20
+Выпадение волос,magnesium,20
+Ломкость ногтей,vitaminB7,40
+Ломкость ногтей,iron,30
+Ломкость ногтей,calcium,20
+Ломкость ногтей,zinc,20
+Частые инфекции,vitaminC,30
+Частые инфекции,vitaminD,20
+Частые инфекции,zinc,20
+Частые инфекции,iron,10
+Плохая память / спутанность сознания,choline,30
+Плохая память / спутанность сознания,vitaminB1,30
+Плохая память / спутанность сознания,vitaminB12,20
+Депрессия / подавленность,vitaminB6,40
+Депрессия / подавленность,vitaminB12,30
+Депрессия / подавленность,vitaminD,30
+ПМС (предменструальный синдром),calcium,40
+ПМС (предменструальный синдром),vitaminB6,30
+ПМС (предменструальный синдром),magnesium,30
+ПМС (предменструальный синдром),vitaminE,20
+Мышечные судороги / спазмы,magnesium,80
+Мышечные судороги / спазмы,calcium,60
+Мышечные судороги / спазмы,vitaminB5,40
+Мышечные судороги / спазмы,potassium,50
+Покалывания / онемение конечностей,vitaminB12,50
+Покалывания / онемение конечностей,vitaminB1,30
+Покалывания / онемение конечностей,magnesium,20
+Бессонница,magnesium,40
+Бессонница,vitaminB6,30
+Бессонница,vitaminB12,20
+Анемия,iron,70
+Анемия,vitaminB9,30
+Анемия,vitaminB12,30
+Головокружение / головная боль,iron,30
+Головокружение / головная боль,vitaminB12,20
+Головокружение / головная боль,magnesium,10
+Подёргивания мышц,magnesium,50
+Подёргивания мышц,calcium,40
+Подёргивания мышц,vitaminD,20
+Сухие / слезящиеся глаза,vitaminA,40
+Сухие / слезящиеся глаза,vitaminB2,10
+
 
