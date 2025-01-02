@@ -1,0 +1,2 @@
+nutrientKey,name,functions,deficiency,foodSources,rda,labTest,referenceRange
+vitaminA,Витамин A,"Здоровье зрения, рост и развитие, иммунитет","Плохое зрение в темноте, сухость кожи/глаз","Морковь, шпинат, яйца","900 мкг**","Плазменный ретинол","0,3–0,7 мг/л"
