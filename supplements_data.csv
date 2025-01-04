@@ -1,0 +1,11 @@
+﻿supplementKey,name,category,effectivenessDrop,criticalStorage,expirationImpact
+vitaminC,Витамин C,Витамин,10,warm,acceptable
+omega3,Омега-3,Жирные кислоты,20,exposed,critical
+magnesium,Магний,Минерал,5,optimal,acceptable
+zinc,Цинк,Минерал,15,warm,acceptable
+iron,Железо,Минерал,25,exposed,critical
+vitaminD,Витамин D,Витамин,10,optimal,acceptable
+probiotics,Пробиотики,Добавка,5,warm,acceptable
+calcium,Кальций,Минерал,5,optimal,acceptable
+vitaminB12,Витамин B12,Витамин,10,exposed,critical
+folate,Фолат,Витамин,10,optimal,acceptable
