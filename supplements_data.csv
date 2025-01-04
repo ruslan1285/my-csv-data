@@ -1,6 +1,6 @@
-supplementKey,name,activeIngredient,stability,lossPerYear,criticalAfter,reasonForLoss,recommendation
-vitaminC,Витамин C,Ascorbic Acid,Medium,10,5,Окисление при контакте с воздухом и светом,Принимать только при соблюдении условий хранения
-omega3,Омега-3,EPA/DHA,Low,20,3,Окисление и разложение в тепле,Не рекомендуется после 3 лет даже при хранении
-magnesium,Магний,Magnesium Oxide,High,5,10,Стабилен при рекомендованных условиях,Стабилен при хранении в сухом месте
-zinc,Цинк,Zinc Gluconate,High,5,10,Очень стабилен в сухом виде,Можно принимать до 10 лет
-iron,Железо,Ferrous Sulfate,Medium,15,5,Окисление при высокой влажности,Срок годности ограничен из-за риска окисления
+supplementKey,name,activeIngredient,form,packaging,stability,lossPerYear,criticalAfter,chemicalDegradation,storageConditions,toxicityRisk,recommendation,testingMethod,source
+vitaminC,Витамин C,Ascorbic Acid,Таблетки,Герметичная,Medium,10,5,Окисление при контакте с воздухом и светом,Температура до 25°C, сухо, без прямого света,Нет,Принимать только при соблюдении условий хранения,HPLC (High Performance Liquid Chromatography),https://pubmed.ncbi.nlm.nih.gov/
+omega3,Омега-3,EPA/DHA,Капсулы,Мягкая упаковка,Low,20,3,Окисление и разложение в тепле,Температура до 10°C, хранить в холодильнике,Высокий риск токсичности после истечения срока,Не рекомендуется после 3 лет даже при хранении в холодильнике,GC-MS (Gas Chromatography–Mass Spectrometry),https://www.fda.gov/
+magnesium,Магний,Magnesium Citrate,Порошок,Герметичная,High,5,10,Потеря кристаллической структуры,Температура до 25°C, сухо,Нет,Стабилен при рекомендованных условиях хранения,Ion Chromatography,https://usp.org/
+iron,Железо,Ferrous Sulfate,Таблетки,Герметичная,Medium,15,5,Окисление при высокой влажности,Температура до 25°C, влажность ниже 50%,Средний риск при превышении дозировки,Срок годности ограничен из-за риска окисления,Spectrophotometry,https://www.who.int/
+zinc,Цинк,Zinc Gluconate,Капсулы,Герметичная,High,5,10,Минимальная потеря стабильности,Температура до 25°C, сухо,Нет,Можно принимать до 10 лет при правильных условиях хранения,Atomic Absorption Spectroscopy,https://pubmed.ncbi.nlm.nih.gov/
