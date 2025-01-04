@@ -1,0 +1,11 @@
+﻿supplementKey,name,category,effectivenessDrop,criticalStorage,expirationImpact,form,storageTempRange,postOpenEffectiveness,sensitivity
+vitaminC,Витамин C,Витамин,10,warm,acceptable,tablet,15-25,0,medium
+omega3,Омега-3,Жирные кислоты,20,exposed,critical,capsule,15-25,10,high
+magnesium,Магний,Минерал,5,optimal,acceptable,powder,10-25,0,low
+zinc,Цинк,Минерал,15,warm,acceptable,tablet,15-25,0,medium
+iron,Железо,Минерал,25,exposed,critical,capsule,15-25,10,high
+vitaminD,Витамин D,Витамин,10,optimal,acceptable,liquid,5-25,30,high
+probiotics,Пробиотики,Добавка,5,warm,acceptable,capsule,15-25,10,medium
+calcium,Кальций,Минерал,5,optimal,acceptable,tablet,10-25,0,low
+vitaminB12,Витамин B12,Витамин,10,exposed,critical,liquid,5-25,40,high
+folate,Фолат,Витамин,10,optimal,acceptable,tablet,10-25,0,medium
