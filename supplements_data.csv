@@ -1,11 +1,6 @@
-﻿supplementKey,name,category,effectivenessDrop,criticalStorage,expirationImpact,form,storageTempRange,postOpenEffectiveness,sensitivity
-vitaminC,Витамин C,Витамин,10,warm,acceptable,tablet,15-25,0,medium
-omega3,Омега-3,Жирные кислоты,20,exposed,critical,capsule,15-25,10,high
-magnesium,Магний,Минерал,5,optimal,acceptable,powder,10-25,0,low
-zinc,Цинк,Минерал,15,warm,acceptable,tablet,15-25,0,medium
-iron,Железо,Минерал,25,exposed,critical,capsule,15-25,10,high
-vitaminD,Витамин D,Витамин,10,optimal,acceptable,liquid,5-25,30,high
-probiotics,Пробиотики,Добавка,5,warm,acceptable,capsule,15-25,10,medium
-calcium,Кальций,Минерал,5,optimal,acceptable,tablet,10-25,0,low
-vitaminB12,Витамин B12,Витамин,10,exposed,critical,liquid,5-25,40,high
-folate,Фолат,Витамин,10,optimal,acceptable,tablet,10-25,0,medium
+supplementKey,name,activeIngredient,stability,lossPerYear,criticalAfter,reasonForLoss,recommendation
+vitaminC,Витамин C,Ascorbic Acid,Medium,10,5,Окисление при контакте с воздухом и светом,Принимать только при соблюдении условий хранения
+omega3,Омега-3,EPA/DHA,Low,20,3,Окисление и разложение в тепле,Не рекомендуется после 3 лет даже при хранении
+magnesium,Магний,Magnesium Oxide,High,5,10,Стабилен при рекомендованных условиях,Стабилен при хранении в сухом месте
+zinc,Цинк,Zinc Gluconate,High,5,10,Очень стабилен в сухом виде,Можно принимать до 10 лет
+iron,Железо,Ferrous Sulfate,Medium,15,5,Окисление при высокой влажности,Срок годности ограничен из-за риска окисления
